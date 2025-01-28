@@ -1,4 +1,4 @@
- Glance Widget Example
+# Glance Widget Example
 
 This is a sample project demonstrating how to create a simple Glance widget in an Android application using the **Glance** library. The widget displays stock price data and updates periodically.
 
